@@ -1,6 +1,4 @@
 import React from "react";
-import ContactList from "./ContactList";
-import ContactInput from "./ContactInput";
 import Navigation from "./Navigation";
 import { Route, Routes } from "react-router-dom";
 import HomePage from "../pages/HomePage";
